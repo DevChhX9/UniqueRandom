@@ -1,0 +1,1 @@
+-	I used the OpenWeather data because I already had a csv ready as I used it for a previous course. I find it interesting because we already know that windspeeds are never the same so making it into the gen shows what each city would feel like it the windspeed was connected to it respective city. I accessed it by loadTable, which helps load the csv file.
